@@ -1,0 +1,8 @@
+U = user
+A = item
+
+result pada preparation/rating.js adalah menyimpan nilai
+U1 : [nilai yang di jadikan array]
+U2 : [nilai yang di jadikan array]
+dan seterusnya.
+
